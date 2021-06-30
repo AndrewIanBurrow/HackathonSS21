@@ -16,10 +16,10 @@ Exporter version: 2.93.1, Blender version: 2.93.1
 		processing begun of material:  BottleBody
 		processing begun of material:  BottleBodySilver
 		processing begun of multimaterial:  AnimalBottleBodyClean_MatNoTex.Multimaterial#0
-		num positions      :  2418
-		num normals        :  2418
+		num positions      :  3302
+		num normals        :  3302
 		num tangents       :  0
-		num uvs            :  4836
+		num uvs            :  6604
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  2700
@@ -28,4 +28,4 @@ Exporter version: 2.93.1, Blender version: 2.93.1
 	writing mesh:  BottleBody
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.2178 secs
+elapsed time:  0 min, 0.1797 secs
