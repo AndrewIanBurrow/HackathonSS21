@@ -23,8 +23,9 @@ Exporter version: 2.93.1, Blender version: 2.93.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  2700
+	processing begun of light (POINT):  Light
 ========= Writing of JSON file started =========
 	writing mesh:  BottleBody
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.1706 secs
+elapsed time:  0 min, 0.2178 secs

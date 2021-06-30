@@ -1,6 +1,6 @@
 {"producer":{"name":"Blender","version":"2.93.1","exporter_version":"2.93.1","file":"AnimalBottleBodyClean_MatNoTex.babylon"},
 "autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
-"materials":[{"name":"BottleBody","id":"BottleBody","customType":"BABYLON.PBRMaterial","albedo":[0.2268,0.3324,0.8],"emissive":[0,0,0],"reflectivity":[0.5,0.5,0.5],"roughness":0.45,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0},
+"materials":[{"name":"BottleBody","id":"BottleBody","customType":"BABYLON.PBRMaterial","albedo":[0.8,0.8,0.8],"emissive":[0,0,0],"reflectivity":[0.5,0.5,0.5],"roughness":0.45,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0},
 {"name":"BottleBodySilver","id":"BottleBodySilver","customType":"BABYLON.PBRMaterial","albedo":[0.6267,0.6267,0.6267],"emissive":[0,0,0],"reflectivity":[0.9051,0.9051,0.9051],"roughness":0.1059,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0.8154}],
 "multiMaterials":[{"name":"AnimalBottleBodyClean_MatNoTex.Multimaterial#0","id":"AnimalBottleBodyClean_MatNoTex.Multimaterial#0","materials":["BottleBody","BottleBodySilver"]}],
 "meshes":[{"name":"BottleBody","id":"BottleBody","materialId":"AnimalBottleBodyClean_MatNoTex.Multimaterial#0","billboardMode":0,"position":[0,0.1547,0],"rotation":[0,0,0],"scaling":[1,1,1],"isVisible":true,"isEnabled":true,"pickable":false
@@ -548,5 +548,6 @@
 ,2399,2049,1992,1950,2400,2401,2010,2402,2403,2404,1961,1960,2405,2406,2036,2407,2408,2251,2409,2009,1961,2016,2031,2410,2411,2006,2005,2412,1919,2251,2413,2029,1989,2026,2414,2415,2416,2417,1907,1882,2016,2251]
 ,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":1621,"indexStart":0,"indexCount":5166},{"materialIndex":1,"verticesStart":1621,"verticesCount":797,"indexStart":5166,"indexCount":2934}]
 ,"instances":[]}
-]
+],
+"lights":[{"name":"Light","id":"Light","type":0,"position":[-3,4,-3],"range":40,"intensityMode":0,"intensity":1,"diffuse":[1,1,1],"specular":[1,1,1],"radius":0.1}]
 }
