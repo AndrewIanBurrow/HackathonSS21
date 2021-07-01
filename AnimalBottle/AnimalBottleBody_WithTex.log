@@ -12,20 +12,21 @@ Exporter version: 2.93.1, Blender version: 2.93.1
 		Texture directory   :  C:\Users\Andrew.Burrow\OneDrive - Mountain Warehouse\Documents\Hackathon SS2021\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently enabled collection
-	processing begun of mesh:  BottleTop
+	processing begun of mesh:  BottleBody
 		processing begun of material:  MainProductMat
-		processing begun of material:  TopBlackMat
-		processing begun of material:  TopSealMat
-		processing begun of multimaterial:  AnimalBottleTop_NoTex.Multimaterial#0
-		num positions      :  1785
-		num normals        :  1785
+		processing begun of material:  BodyScrewTopMat
+			processing texture BottleText_01
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  AnimalBottleBody_WithTex.Multimaterial#0
+		num positions      :  2834
+		num normals        :  2834
 		num tangents       :  0
-		num uvs            :  3570
+		num uvs            :  5668
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  1758
+		num triangles      :  2700
 ========= Writing of JSON file started =========
-	writing mesh:  BottleTop
+	writing mesh:  BottleBody
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.1297 secs
+elapsed time:  0 min, 0.2232 secs

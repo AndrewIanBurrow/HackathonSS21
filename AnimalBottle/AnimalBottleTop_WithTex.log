@@ -16,11 +16,13 @@ Exporter version: 2.93.1, Blender version: 2.93.1
 		processing begun of material:  MainProductMat
 		processing begun of material:  TopBlackMat
 		processing begun of material:  TopSealMat
-		processing begun of multimaterial:  AnimalBottleTop_NoTex.Multimaterial#0
-		num positions      :  1785
-		num normals        :  1785
+			processing texture BottleText_01
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  AnimalBottleTop_WithTex.Multimaterial#0
+		num positions      :  1777
+		num normals        :  1777
 		num tangents       :  0
-		num uvs            :  3570
+		num uvs            :  3554
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  1758
@@ -28,4 +30,4 @@ Exporter version: 2.93.1, Blender version: 2.93.1
 	writing mesh:  BottleTop
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.1297 secs
+elapsed time:  0 min, 0.1172 secs
